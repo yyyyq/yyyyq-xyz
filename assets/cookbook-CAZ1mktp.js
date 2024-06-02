@@ -1,1 +1,0 @@
-import{d as o,_ as e,o as t,c as n}from"./index-DMKCA5_w.js";const c=o({name:"CookBook",setup(){}});function s(a,r,p,_,d,f){return t(),n("div",null,"test-cook")}const i=e(c,[["render",s]]);export{i as default};
