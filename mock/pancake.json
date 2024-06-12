@@ -1,0 +1,15 @@
+{
+  "title": "葱油煎饼",
+  "steps": [
+    {
+      "title": "第一步",
+      "icon": "IconMdiChefHat",
+      "imgs": ["/img/jianb.jpg"]
+    },
+    {
+      "title": "第二步",
+      "icon": "IconMdiChefHat",
+      "imgs": ["/img/jianb-2.jpg"]
+    }
+  ]
+}
